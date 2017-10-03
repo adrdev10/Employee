@@ -15,7 +15,7 @@ public class Employee {
 	 * 
 	 */
 	public Employee() {
-		this.firstName = "John";
+		this.firstName = "Adrian";
 		this.lastName = "Doe";
 		this.startYear = 2017;
 		createIdNumber();
